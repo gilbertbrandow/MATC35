@@ -25,15 +25,14 @@ The compulsory written assignment is a handwritten weekly course journal. Each p
 - [ ] Reading: Sections 7.2-7.4 and 8.1-8.2
 - [ ] Exercises: Section 6.1: 1, 3, 6, 7, 8, 18, 19, 20, 21, 23; Section 6.2: 2, 4, 5, 8; Section 6.3: 6, 7, 13
 - [ ] Seminar: Discuss the exercises on number-theoretic functions and Möbius inversion (Wednesday, 11 November, 14:00-15:00, MH:332B)
-- [ ] Course journal: Write the entry on the Möbius Inversion Formula (due before the Friday lecture on 20 November)
+- [ ] Course journal: Submit the Möbius Inversion Formula entry before the lecture (Friday, 20 November, before 08:00)
 
 ## Week 47 (16-22 November 2026)
 
 - [ ] Lectures: Primitive roots continued, the theory of indices, and Euler's criterion (Sections 8.3, 8.4, and 9.1) (Tuesday, 17 November, and Friday, 20 November, 08:00-10:00, MH:Hörmandersalen)
 - [ ] Reading: Sections 8.3-8.4 and 9.1
 - [ ] Seminar: Weekly exercises to be announced (Wednesday, 18 November, 14:00-15:00, MH:332B)
-- [ ] Course journal: Submit the Möbius Inversion Formula entry before the lecture (Friday, 20 November, before 08:00)
-- [ ] Course journal: Check the [exercise page](https://canvas.education.lu.se/courses/42193/pages/exercises) for the next topic
+- [ ] Course journal: Complete the published weekly entry; consult the [Math Diary page](https://canvas.education.lu.se/courses/42193/pages/math-diary) for the current topic and deadline
 
 ## Week 48 (23-29 November 2026)
 
