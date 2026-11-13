@@ -25,7 +25,7 @@ The compulsory written assignment is a handwritten weekly course journal. Each p
 - [ ] Reading: Sections 7.2-7.4 and 8.1-8.2
 - [ ] Exercises: Section 6.1: 1, 3, 6, 7, 8, 18, 19, 20, 21, 23; Section 6.2: 2, 4, 5, 8; Section 6.3: 6, 7, 13
 - [ ] Seminar: Discuss the exercises on number-theoretic functions and Möbius inversion (Wednesday, 11 November, 14:00-15:00, MH:332B)
-- [ ] Course journal: Submit the Möbius Inversion Formula entry before the lecture (Friday, 20 November, before 08:00)
+- [ ] Course journal: Submit the Möbius Inversion Formula entry before the lecture (Friday, 13 November, before 08:00)
 
 ## Week 47 (16-22 November 2026)
 

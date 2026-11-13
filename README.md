@@ -71,8 +71,6 @@ Each entry contains:
 - A brief evaluation of the week's lecture material, seminar exercises, study method, and learning outcome
 - A "Pick of the Week" reflecting on any course-related idea, theorem, exercise, application, or experience
 
-The first currently published topic is the Möbius Inversion Formula. Under the stated submission rule, the Week 2 entry is due before the Friday lecture on 20 November 2026.
-
 The preliminary overview still labels cryptography as a written assignment. The current Math Diary page explicitly states that the previous extensive written assignment has been replaced by the weekly course journal, so no separate cryptography submission is assumed unless the course information is updated.
 
 ## Important dates
