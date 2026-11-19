@@ -18,6 +18,8 @@ The course covers:
 - Continued fractions and Diophantine approximation
 - Applications to cryptography
 
+The updated course overview covers Pell's equation (Section 15.5) and no longer lists the Fibonacci sequence or cryptography as separate lecture topics. See [PLAN.md](PLAN.md).
+
 ## Learning outcomes
 
 After completing the course, the student should be able to:
@@ -78,7 +80,9 @@ The preliminary overview still labels cryptography as a written assignment. The 
 - 2026-11-02 - Course period begins
 - 2026-11-03 - First lecture
 - 2026-11-04 - First seminar
-- 2026-11-20 - Week 2 journal entry on the Möbius Inversion Formula due before the lecture
+- 2026-11-13 - Journal entry on the Möbius Inversion Formula due before the lecture
+- 2026-11-20 - Journal entry on Euler's Phi function due before the lecture
+- 2026-11-27 - Journal entry on Primitive roots due before the lecture
 - 2026-12-15 - Final scheduled lecture
 - 2026-12-17 - Ordinary written examination, 08:00-13:00
 - 2027-01-12 - Resit written examination, 08:00-13:00
@@ -113,4 +117,5 @@ The course may not be included in a degree together with MATM35 Number Theory, 7
 
 - [PLAN.md](PLAN.md) - preliminary weekly course plan, reading, exercises, journal work, and examination dates
 - [literature/](literature) - course textbook
+- [logbook/](logbook) - course journal entries and the lecturer's example entry
 - [exams/](exams) - 18 past written examinations from 2015-2025, mostly under the former MATM35 course code
